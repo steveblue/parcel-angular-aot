@@ -76,3 +76,4 @@ _test-output/
 build/
 cli.config.js
 closure/
+yarn.lock
