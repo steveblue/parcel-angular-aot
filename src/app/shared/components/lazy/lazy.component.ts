@@ -34,6 +34,7 @@ import { trigger, state, style, transition, animate } from '@angular/animations'
 export class LazyComponent implements OnDestroy {
 
   angularMode: string;
+  message: string = 'Hello World';
 
   constructor() {
 
